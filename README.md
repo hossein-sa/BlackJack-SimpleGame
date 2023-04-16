@@ -4,7 +4,7 @@ Blackjack Game
 This is a simple implementation of the popular card game Blackjack, also known as 21. The game is written in Java and runs in the command line.
 How to Play
 
-    Run the BlackJack.java file to start the game.
+    Run the Main.java file to start the game.
     The game will shuffle the deck and deal two cards to the player and dealer.
     The player will be prompted to hit or stand. To hit, type "hit" and press enter. To stand, type "stand" and press enter.
     If the player's hand exceeds 21, they will lose automatically.
