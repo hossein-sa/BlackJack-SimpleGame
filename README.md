@@ -10,7 +10,7 @@ This is a simple implementation of the popular card game Blackjack, also known a
     If the player chooses to stand, the dealer will draw cards until their hand exceeds 16.
     The winner is the player or dealer with the highest score without exceeding 21.
 
-# #Features
+## Features
 
     The game uses a standard 52-card deck.
     The game keeps track of the player's score and displays it after each hit or stand.
